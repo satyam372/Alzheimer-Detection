@@ -10,6 +10,14 @@ Alzheimer's disease is a neurodegenerative disorder that affects memory and cogn
 
 The dataset used for training and evaluation is stored in Google Drive. It consists of images categorized into different classes, each representing a specific class related to Alzheimer's disease.
 
+
+
+### ADNI Dataset
+
+In addition to the primary dataset, this project incorporates data from the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset. ADNI provides valuable neuroimaging and clinical data, enhancing the model's capability to learn from a diverse range of sources.
+
+
+
 ## Project Structure
 
 - `Data Exploration`: Randomly displays images from the dataset for visual inspection.
@@ -34,7 +42,23 @@ Transfer learning with pre-trained models
 Larger and more diverse datasets
 Feel free to contribute to the project or use the code as a foundation for your own Alzheimer's disease detection models.
 
+
+## References
+
+1. Alzheimer's Disease Neuroimaging Initiative (ADNI). Website: [ADNI Website](http://adni.loni.usc.edu/)
+
+2. F M JAVED MEHEDI SHAMRAT 1, SHAMIMA AKTER (2023). "AlzheimerNet: An Effective Deep Learning
+Based Proposition for Alzheimer’s Disease
+Stages Classification From Functional Brain
+Changes in Magnetic Resonance Images" *IEEE Research Paper
+   
+
+
+
+
 ## Dataset Link
 https://drive.google.com/drive/folders/1lrX-lB4DXjNeez9_joRmxOOt1LFAqnb4?usp=drive_link
+
+For additional information on the ADNI dataset, visit [ADNI Website](http://adni.loni.usc.edu/).
 
 
